@@ -6,11 +6,9 @@ This repository contains 3 Nest.js projects:
 - payments-microservice
 - users-microservice
 
-You can find the video tutorial for this project [here]('https://youtube.com/)
-
 # Getting Started
 
-Want to set this up locally on your own? The best way to set this project up is by using Docker.
+The best way to set this project up is by using Docker.
 
 1. Pull down this repository and make sure you install each projects' dependencies by running `npm run install`.
 
